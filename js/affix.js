@@ -1,5 +1,6 @@
 $('nav').affix({
-      offset: {
+    offset: {
         top: $('header').height()
-      }
-});	
+    }
+});
+
