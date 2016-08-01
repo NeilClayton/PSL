@@ -1,0 +1,6 @@
+*.scssc
+.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/wamp64/www/PSL/sass/partials/header.sassc
+*.sassc
+*.rb
+sass/partials/footer.sass
+*.sass
